@@ -5,17 +5,17 @@
         {
             "name": "Atomium | Made by : azoulucoux",
             "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/New-flag-art/Images/2023/Atomium_azoulucoux.png?raw=true"
+            ],
+            "x": 2622,
+            "y": 1707
+        },
+        {
+            "name": "Belgium border | Made by : misterblaecher",
+            "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/New-flag-art/Images/2023/Belgium_border_misterblaecher.png?raw=true"
             ],
             "x": 2611,
-            "y": 1628
-        },
-        {
-            "name": "Atomium | Made by : azoulucoux",
-            "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/New-flag-art/Images/2023/Atomium_azoulucoux.png?raw=true"
-            ],
-            "x": 2624,
             "y": 1707
         },
         {
