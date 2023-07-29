@@ -52,7 +52,7 @@ Convert the image you want in these color
 |BLUE|`#3690EA`|
 |LIGHT BLUE|`#51E9F4`|
 |INDIGO|`#493AC1`|
-|PERIWINKLE|`6A5CFF`|
+|PERIWINKLE|`#6A5CFF`|
 |LAVENDER|`#94B3FF`|
 |DARK PURPLE|`#811E9F`|
 |PURPLE|`#B44AC0`|
