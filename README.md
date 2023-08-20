@@ -3,9 +3,8 @@
 It use this [templateManager](https://github.com/osuplace/templateManager) made by osuplace.
 
 1. [Usage instruction](#usage-instructions)
-2. [How to create an images](#how-to-create-an-images)
-    1. [Size of the image](#size-of-the-images)
-    2. [Color use in R/Place](#color-use-in-rplace)
+2. [Color use in R/Place](#color-use-in-rplace)
+
 ## Usage instructions:
  * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
  * Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
@@ -24,14 +23,7 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
     
     ![screen 4](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen004.png?raw=true)
 
-## How to create an images
-### Size of the images
-
-The size of the images depends on their size. 
-If the image is 30PX wide, it will take up 30PX on the R/Place.
-The flag is 33PX wide so be sure to be under this
-
-### Color use in R/Place
+## Color use in R/Place
 The R/Plcae have limited color, here is the color used in it.
 Convert the image you want in these color
 |COLOR|HEX|
@@ -68,3 +60,6 @@ Convert the image you want in these color
 |GRAY|`#898D90`|
 |LIGHT GRAY|`#D4D7D9`|
 |WHITE|`#ffffff`|
+
+
+Note for me : https://docs.google.com/document/d/12WTiDcRo4P35zJvlgWX06MKVbitbDo3ehnF7mysFv4Y/edit?rm=minimal&pli=1
